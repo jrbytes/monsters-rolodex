@@ -1,4 +1,11 @@
+<div align="center">
+
 # Monsters Rolodex
+
+<img src="./example.png" width="80%">
+
+</div>
+<br>
 
 ```json
 { 
